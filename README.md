@@ -102,6 +102,6 @@ Blue LED blinking 5 times...
 
 ## Author
 
-Swansh G. Shandilya
+Swansh Shandilya
 
 Learning Embedded Systems and Arduino through hands-on projects.
