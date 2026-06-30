@@ -4,7 +4,7 @@ int i;
 int redled=13;
 int greenled=12;
 int blueled=8;
-int dt=250;
+int dt=125;
 String msg=" which led you want to turn on? :";
 String msg2=" How many times do you want to blink the led?: ";
 void setup()
